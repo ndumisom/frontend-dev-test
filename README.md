@@ -1,25 +1,38 @@
-# Responsive Web Page
+# Build a Web Page Test
 
 ## Overview
 
-In the zip file there are 3 designs of the same page, Desktop, Tablet and Mobile version.
+In `designs.zip` there are PSD's for each of the following breakpoints:
+
+ - 320
+ - 768
+ - 992
 
 ## Instructions
 
- - Build page with HTML/CSS
- - Page must be responsive. (Tip: Start with mobile)
- - You can use a CSS framework eg. Bootstrap (getbootstrap.com)
- - jQuery isn't mandatory, but if you can and want to incorporate, you can. (Extra credit)
- - You will notice there are a few icons in the design, if you're using font icons (eg. fontello.com), you can replace those in the design with any icon, doesn't have to match design.
- - If you don't use jquery for on clicks, then just make it hover states to show and hide certain elements with css.
- - You can use build processes like Gulp or Grunt with SASS or LESS (Extra credit)
+ - Build the designs using HTML & CSS
+ - The page must be responsive. (Tip: Start with mobile)
+ - You can use a CSS framework. The designs were created with [Bootstrap's](getbootstrap.com) default grid system in mind, but feel free to use whatever you are comfortable with.
+ - The design makes use of 2 font families:
+ 	- Roboto (Can be found [here](https://www.google.com/fonts#UsePlace:use/Collection:Roboto))
+ 	- Georgia (Assume it is available on the user's system)
+ - Each PSD has a grid layer that you can use to see the column structures within the design. The PSD's also contains "layer comps" for the normal and hover states of various elements.
+ - For your convenience, all the image assets required to build this page have been saved into the `image-assets` directory
+ - We will be judging your submission based on:
+ 	- Elegance of your CSS and HTML
+ 	- Accuracy of your build relative to the designs (We'll be checking your build across multiple browsers)
+ - If you have any questions, please [submit an issue](https://github.com/NATIVEVML/frontend-dev-test/issues)
 
 ## Deliverables
 
-- All assets/files needed to build and view the page in a browser
-	- Fork this repo, and then submit a pull request
-	- Or email us a link to your repo
-	- Or email us your code
-- In addition, you may provide a hosted link.
+All assets/files needed to build and view the page in a browser.
+
+ - Fork this repo, and then submit a pull request
+ - Or email us a link to your repo
+ - Or email us your code
 
 Get in touch with us at <careers@native.co.za>
+
+## Bonus Round
+
+If you'd like to demonstrate your JavaScript skills, please have a look at our [Interactive Developer Test](https://github.com/NATIVEVML/interactive-dev-test)
