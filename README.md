@@ -12,7 +12,7 @@ In `designs.zip` there are PSD's for each of the following breakpoints:
 
  - Build the designs using HTML & CSS
  - The page must be responsive. (Tip: Start with mobile)
- - You can use a CSS framework. The designs were created with [Bootstrap's](getbootstrap.com) default grid system in mind, but feel free to use whatever you are comfortable with.
+ - You can use a CSS framework. The designs were created with [Bootstrap's](http://getbootstrap.com/) default grid system in mind, but feel free to use whatever you are comfortable with.
  - The design makes use of 2 font families:
  	- Roboto (Can be found [here](https://www.google.com/fonts#UsePlace:use/Collection:Roboto))
  	- Georgia (Assume it is available on the user's system)
